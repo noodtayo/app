@@ -11,7 +11,6 @@
     "name": "ALLTV2",
     "logoLocal": "ch_alltv2",
     "category": "Entertainment",
-    "dateAdded": "2026-02-28",
     "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
 
@@ -70,7 +69,6 @@
     "name": "Movies Now",
     "logoLocal": "ch_movies_now",
     "category": "Movies",
-    "dateAdded": "2026-02-28",
     "streamUrl": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
     "drm": {
       "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
@@ -419,8 +417,7 @@
   {
     "name": "Cartoon Network Philippines",
     "logoLocal": "ch_cartoon_network",
-    "category": "Kids",
-    "dateAdded": "2026-03-15",    
+    "category": "Kids",  
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd",
     "drm": {
       "a2d1f552ff9541558b3296b5a932136b": "cdd48fa884dc0c3a3f85aeebca13d444"
@@ -1026,8 +1023,7 @@
     {
     "name": "TLC",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_tlc.webp",
-    "category": "Lifestyle",
-    "dateAdded": "2026-03-11",    
+    "category": "Lifestyle",   
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd",
     "drm": {
       "942ec156203b2aca1ddf3498f663c110": "7f5e6c69698ddefcb74553431b2b1c98"
@@ -1041,7 +1037,6 @@
     "name": "Game Show Network",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_game_show_network.webp",
     "category": "Entertainment",
-    "dateAdded": "2026-03-11",
     "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
   },
   
@@ -1267,8 +1262,7 @@
    {
     "name": "Celestial Classic Movies",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_ccm.webp",
-    "category": "Movies",
-    "dateAdded": "2026-03-16",    
+    "category": "Movies", 
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd",
     "drm": {
       "a642dd4bf3ea782e19202adefb604b10": "3f59355e15eed1bb219ea1687d55cfbb"
@@ -1278,11 +1272,50 @@
     }
   },
 
+    {
+    "name": "Kartoon Channel!",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_kartoon_channel.webp",
+    "category": "Kids",
+    "dateAdded": "2026-03-18",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8"
+  },
+
+   {
+    "name": "BOOMERANG",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_boomerang.webp",
+    "category": "Kids",
+    "dateAdded": "2026-03-18",
+    "streamUrl": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
+  },
+
+   {
+    "name": "Disney XD",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_disney_xd.webp",
+    "category": "Kids",
+    "dateAdded": "2026-03-18",
+    "streamUrl": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
+  },
+
+   {
+    "name": "Ani-blast",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_ani_blast.webp",
+    "category": "Anime",
+    "dateAdded": "2026-03-18",
+    "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8"
+  },
+
+   {
+    "name": "Comedy Central",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_comedy_central.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-18",
+    "streamUrl": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
+  },
+
    {
     "name": "ESPN",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_espn.webp",
     "category": "Sports",
-    "dateAdded": "2026-03-16",
     "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23120"
   },
 
@@ -1290,7 +1323,6 @@
     "name": "BeIN Sports 1",
     "logoLocal": "ch_bein_sports_1",
     "category": "Sports",
-    "dateAdded": "2026-03-16",
     "streamUrl": "https://hls.iill.top/api/beIN-Sports-1/index.m3u8"
   },
 
@@ -1369,8 +1401,7 @@
   {
     "name": "Sky Sports F1",
     "logoLocal": "ch_sky_sports_f1",
-    "category": "Sports",
-    "dateAdded": "2026-03-11",    
+    "category": "Sports",    
     "streamUrl": "https://hls.iill.top/api/Sky-Sports-F1/index.m3u8"
   },
 
