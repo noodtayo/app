@@ -134,16 +134,14 @@
   {
     "name": "Star Movies",
     "logoLocal": "ch_star_movies",
-    "category": "Movies",
-    "dateAdded": "2026-03-15",     
-    "streamUrl": "http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl"
+    "category": "Movies",    
+    "streamUrl": "http://103.175.242.10:8080/starmovies/index.m3u8"
   },
 
   {
     "name": "Star Movies Select",
     "logoLocal": "ch_star_movies_select",
     "category": "Movies",
-    "dateAdded": "2026-03-15", 
     "streamUrl": "http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf"
   },
 
@@ -1027,7 +1025,7 @@
 
     {
     "name": "TLC",
-    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_tlc.webp",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_tlc.webp",
     "category": "Lifestyle",
     "dateAdded": "2026-03-11",    
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd",
@@ -1041,7 +1039,7 @@
 
     {
     "name": "Game Show Network",
-    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_game_show_network.webp",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_game_show_network.webp",
     "category": "Entertainment",
     "dateAdded": "2026-03-11",
     "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
@@ -1268,7 +1266,7 @@
 
    {
     "name": "Celestial Classic Movies",
-    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_ccm.webp",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_ccm.webp",
     "category": "Movies",
     "dateAdded": "2026-03-16",    
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd",
@@ -1282,7 +1280,7 @@
 
    {
     "name": "ESPN",
-    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_espn.webp",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_espn.webp",
     "category": "Sports",
     "dateAdded": "2026-03-16",
     "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23120"
