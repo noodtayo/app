@@ -109,6 +109,24 @@
     }
   },
 
+   {
+    "name": "HBO Signature",
+    "logoLocal": "ch_hbo_signature",
+    "category": "Movies",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd",
+    "drm": {
+      "a06ca6c275744151895762e0346380f5": "559da1b63eec77b5a942018f14d3f56f"
+    }
+  },
+
+  {
+    "name": "Starz",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_starz.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-19",
+    "streamUrl": "http://212.102.60.231/STARZ/index.m3u8"
+  },
+
   {
     "name": "HITS Movies",
     "logoLocal": "ch_hits_movies",
@@ -521,16 +539,6 @@
     "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd",
     "drm": {
       "4a9d2f7c1e6b4c8d8a55d7b1e3f0c926": "2e62531bdb450480a18197b14f4ebc77"
-    }
-  },
-
-  {
-    "name": "HBO Signature",
-    "logoLocal": "ch_hbo_signature",
-    "category": "Movies",
-    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd",
-    "drm": {
-      "a06ca6c275744151895762e0346380f5": "559da1b63eec77b5a942018f14d3f56f"
     }
   },
 
@@ -1467,6 +1475,14 @@
     "logoLocal": "ch_tennis_plus",
     "category": "Sports",
     "streamUrl": "https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8"
+  },
+
+   {
+    "name": "Pickle TV",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_pickle_tv.webp",
+    "category": "Sports",
+    "dateAdded": "2026-03-19",
+    "streamUrl": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8"
   },
 
   {
