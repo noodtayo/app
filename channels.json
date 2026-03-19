@@ -1375,7 +1375,6 @@
     "name": "Kartoon Channel!",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_kartoon_channel.webp",
     "category": "Kids",
-    "dateAdded": "2026-03-18",
     "streamUrl": "https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8"
   },
 
@@ -1383,7 +1382,6 @@
     "name": "BOOMERANG",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_boomerang.webp",
     "category": "Kids",
-    "dateAdded": "2026-03-18",
     "streamUrl": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
   },
 
@@ -1391,7 +1389,6 @@
     "name": "Disney XD",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_disney_xd.webp",
     "category": "Kids",
-    "dateAdded": "2026-03-18",
     "streamUrl": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
   },
 
@@ -1399,7 +1396,6 @@
     "name": "Ani-blast",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_ani_blast.webp",
     "category": "Anime",
-    "dateAdded": "2026-03-18",
     "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8"
   },
 
@@ -1407,7 +1403,6 @@
     "name": "Comedy Central",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_comedy_central.webp",
     "category": "Entertainment",
-    "dateAdded": "2026-03-18",
     "streamUrl": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
   },
 
