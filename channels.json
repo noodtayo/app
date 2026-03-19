@@ -165,6 +165,7 @@
     "name": "GMA Pinoy TV",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_gma_pinoy_tv.webp",
     "category": "Entertainment",
+     "dateAdded": "2026-03-19",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd",
     "drm": {
       "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981"
@@ -178,6 +179,7 @@
     "name": "GMA Life TV",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_gma_live_tv.webp",
     "category": "Entertainment",
+    "dateAdded": "2026-03-19",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd",
     "drm": {
       "5d308ef487f54107b7da758e195ecbd3": "9d4004d4c065dd4b85ad5bd12c35386f"
@@ -191,6 +193,7 @@
     "name": "GMA News TV",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_gma_news_tv.webp",
     "category": "Entertainment",
+    "dateAdded": "2026-03-19",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd",
     "drm": {
       "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855"
