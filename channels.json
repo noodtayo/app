@@ -1401,8 +1401,9 @@
   {
     "name": "Sky Sports F1",
     "logoLocal": "ch_sky_sports_f1",
-    "category": "Sports",    
-    "streamUrl": "https://hls.iill.top/api/Sky-Sports-F1/index.m3u8"
+    "category": "Sports",
+    "dateAdded": "2026-03-19",
+    "streamUrl": "https://a1xs.vip/2000005"
   },
 
   {
