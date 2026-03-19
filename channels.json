@@ -1288,7 +1288,15 @@
     }
   },
 
-    {
+   {
+    "name": "ZooMoo",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_zoomoo.webp",
+    "category": "Kids",
+    "dateAdded": "2026-03-19",
+    "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+  },
+ 
+   {
     "name": "Kartoon Channel!",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_kartoon_channel.webp",
     "category": "Kids",
