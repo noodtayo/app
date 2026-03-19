@@ -1440,8 +1440,8 @@
   },
 
    {
-    "name": "UFC TV",
-    "logoLocal": "ch_ufc_tv",
+    "name": "Fight+",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_fight_plus.webp",
     "category": "Sports",
     "streamUrl": "https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8"
   },
