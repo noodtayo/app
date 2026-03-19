@@ -177,7 +177,7 @@
 
   {
     "name": "GMA Life TV",
-    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_gma_live_tv.webp",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_gma_life_tv.webp",
     "category": "Entertainment",
     "dateAdded": "2026-03-19",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd",
