@@ -808,6 +808,13 @@
     }
   },
 
+   {
+    "name": "Disney XD",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_disney_xd.webp",
+    "category": "Kids",
+    "streamUrl": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
+  },
+ 
   {
     "name": "One News",
     "logoLocal": "ch_one_news",
@@ -1404,13 +1411,6 @@
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_boomerang.webp",
     "category": "Kids",
     "streamUrl": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
-  },
-
-   {
-    "name": "Disney XD",
-    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_disney_xd.webp",
-    "category": "Kids",
-    "streamUrl": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
   },
 
    {
