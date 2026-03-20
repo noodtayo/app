@@ -1573,7 +1573,7 @@
     "name": "Tennis Channel 2",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_tennis_channel_2.webp",
     "category": "Sports",
-    "dateAdded": "2026-03-20
+    "dateAdded": "2026-03-20",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
     "drm": {
       "59F50679C9E60963BD0CB6640992AAAA": "8685817c4d31f322e08940feeae2855a"
