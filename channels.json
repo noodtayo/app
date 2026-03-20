@@ -1434,14 +1434,43 @@
     "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23120"
   },
 
-    {
+   {
+    "name": "F1 TV (1)",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_f1_tv.webp",
+    "category": "Sports",
+    "dateAdded": "2026-03-21",
+    "streamUrl": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
+    "drm": {
+      "505616380de706936e493fdd1c25d0b6": "5b313f49c63c682236eab3357400e216"
+    }
+  },
+
+   {
+    "name": "F1 TV (2)",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_f1_tv.webp",
+    "category": "Sports",
+    "dateAdded": "2026-03-21",
+    "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+    "drm": {
+      "609d795905904705028ef54653019af7": "2c791eb611e57a7d7f203022bc1b9ba3"
+    }
+  },
+
+   {
+    "name": "Sky Sports F1",
+    "logoLocal": "ch_sky_sports_f1",
+    "category": "Sports",
+    "streamUrl": "https://a1xs.vip/2000005"
+  },
+
+   {
     "name": "BeIN Sports 1",
     "logoLocal": "ch_bein_sports_1",
     "category": "Sports",
     "streamUrl": "https://hls.iill.top/api/beIN-Sports-1/index.m3u8"
   },
 
-    {
+   {
     "name": "BeIN Sports 2",
     "logoLocal": "ch_bein_sports_2",
     "category": "Sports",
@@ -1455,7 +1484,7 @@
     "streamUrl": "https://hls.iill.top/api/beIN-Sports-3/index.m3u8"
   },
 
-  {
+   {
     "name": "NBA TV",
     "logoLocal": "ch_nba_tv",
     "category": "Sports",
@@ -1511,14 +1540,6 @@
     "logoLocal": "ch_tnt_sports_4",
     "category": "Sports",
     "streamUrl": "https://hls.iill.top/api/TNT-Sports-4/index.m3u8"
-  },
-
-  {
-    "name": "Sky Sports F1",
-    "logoLocal": "ch_sky_sports_f1",
-    "category": "Sports",
-    "dateAdded": "2026-03-19",
-    "streamUrl": "https://a1xs.vip/2000005"
   },
 
   {
