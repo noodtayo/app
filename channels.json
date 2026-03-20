@@ -1428,6 +1428,55 @@
   },
 
    {
+    "name": "Astro Showcase",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_astro_showcase.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-21",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd",
+    "drm": {
+      "b8090c8361cc5cc5c1aac0ec2710de10": "ca0d18538845bae2cb4f4a168036f174"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Astro Showtime",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_astro_showtime.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-21",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "7RJVdgSDgSHZlvDXg3nKow",
+          "kid": "aZ-4LHCn7Cl_M6pEI7q1EA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Astro Grandstand",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_astro_grandstand.webp",
+    "category": "Sports",
+    "dateAdded": "2026-03-21",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd",
+    "drm": {
+      "5be66a6f88efee3d6e30f72a9c58e310": "168f3fadfc730ba3dfc932f7c430e27d"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+   {
     "name": "ESPN",
     "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_espn.webp",
     "category": "Sports",
