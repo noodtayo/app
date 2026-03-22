@@ -1498,7 +1498,7 @@
     "name": "F1 TV (2)",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
-    "dateAdded": "2026-03-21T15:00:00",
+    "dateAdded": "2026-03-21",
     "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
     "drm": {
       "609d795905904705028ef54653019af7": "2c791eb611e57a7d7f203022bc1b9ba3"
