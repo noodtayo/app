@@ -49,7 +49,6 @@
     "name": "Cinema One",
     "logoLocal": "ch_cinema_one",
     "category": "Movies",
-    "dateAdded": "2026-03-20",
     "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
  
@@ -67,7 +66,6 @@
     "name": "Cinemo",
     "logoLocal": "ch_cinemo",
     "category": "Movies",
-    "dateAdded": "2026-03-20",
     "streamUrl": "http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
 
@@ -140,7 +138,6 @@
     "name": "Starz",
     "logoLocal": "ch_starz",
     "category": "Movies",
-    "dateAdded": "2026-03-19",
     "streamUrl": "http://212.102.60.231/STARZ/index.m3u8"
   },
 
@@ -182,7 +179,6 @@
     "name": "GMA Pinoy TV",
     "logoLocal": "ch_gma_pinoy_tv",
     "category": "Entertainment",
-     "dateAdded": "2026-03-19",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd",
     "drm": {
       "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981"
@@ -196,7 +192,6 @@
     "name": "GMA Life TV",
     "logoLocal": "ch_gma_life_tv",
     "category": "Entertainment",
-    "dateAdded": "2026-03-19",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd",
     "drm": {
       "5d308ef487f54107b7da758e195ecbd3": "9d4004d4c065dd4b85ad5bd12c35386f"
@@ -210,7 +205,6 @@
     "name": "GMA News TV",
     "logoLocal": "ch_gma_news_tv",
     "category": "Entertainment",
-    "dateAdded": "2026-03-19",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd",
     "drm": {
       "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855"
@@ -515,7 +509,6 @@
     "name": "Celestial Movies",
     "logoLocal": "ch_celestial_movies",
     "category": "Movies",
-    "dateAdded": "2026-03-20",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd",
     "drm": {
       "keys": [
@@ -1093,7 +1086,6 @@
     "name": "MYX",
     "logoLocal": "ch_myx",
     "category": "Music",
-    "dateAdded": "2026-03-20",
     "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
  
@@ -1202,7 +1194,6 @@
     "name": "TV Maria",
     "logoLocal": "ch_tv_maria",
     "category": "Religious",
-    "dateAdded": "2026-03-19",
     "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
 
@@ -1334,7 +1325,6 @@
     "name": "Trace Urban",
     "logoLocal": "ch_trace_urban",
     "category": "Music",
-    "dateAdded": "2026-03-20",
     "streamUrl": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
   },
  
@@ -1395,7 +1385,6 @@
     "name": "ZooMoo",
     "logoLocal": "ch_zoomoo",
     "category": "Kids",
-    "dateAdded": "2026-03-19",
     "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
   },
  
@@ -1431,7 +1420,6 @@
     "name": "Astro Showcase",
     "logoLocal": "ch_astro_showcase",
     "category": "Movies",
-    "dateAdded": "2026-03-21",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd",
     "drm": {
       "b8090c8361cc5cc5c1aac0ec2710de10": "ca0d18538845bae2cb4f4a168036f174"
@@ -1445,7 +1433,6 @@
     "name": "Astro Showtime",
     "logoLocal": "ch_astro_showtime",
     "category": "Movies",
-    "dateAdded": "2026-03-21",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd",
     "drm": {
       "keys": [
@@ -1466,7 +1453,6 @@
     "name": "Astro Grandstand",
     "logoLocal": "ch_astro_grandstand",
     "category": "Sports",
-    "dateAdded": "2026-03-21",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd",
     "drm": {
       "5be66a6f88efee3d6e30f72a9c58e310": "168f3fadfc730ba3dfc932f7c430e27d"
@@ -1487,7 +1473,6 @@
     "name": "F1 TV (1)",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
-    "dateAdded": "2026-03-21",
     "streamUrl": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
     "drm": {
       "505616380de706936e493fdd1c25d0b6": "5b313f49c63c682236eab3357400e216"
@@ -1498,7 +1483,6 @@
     "name": "F1 TV (2)",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
-    "dateAdded": "2026-03-21",
     "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
     "drm": {
       "609d795905904705028ef54653019af7": "2c791eb611e57a7d7f203022bc1b9ba3"
@@ -1643,7 +1627,6 @@
     "name": "Tennis Channel 2",
     "logoLocal": "ch_tennis_channel_2",
     "category": "Sports",
-    "dateAdded": "2026-03-20",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
     "drm": {
       "59F50679C9E60963BD0CB6640992AAAA": "8685817c4d31f322e08940feeae2855a"
@@ -1661,7 +1644,6 @@
     "name": "Pickle TV",
     "logoLocal": "ch_pickle_tv",
     "category": "Sports",
-    "dateAdded": "2026-03-19",
     "streamUrl": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8"
   },
 
