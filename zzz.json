@@ -1658,14 +1658,6 @@
   },
 
   {
-    "name": "SBS",
-    "logoLocal": "ch_sbs",
-    "category": "International",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch60"
-  },
-
-  {
     "name": "MBC",
     "logoLocal": "ch_mbc",
     "category": "International",
