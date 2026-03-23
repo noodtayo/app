@@ -437,6 +437,19 @@
   },
 
   {
+    "name": "BBC Lifestyle",
+    "logoLocal": "ch_bbc_lifestyle",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd",
+    "drm": {
+      "f429292dc744f284355308561577ac10": "b12e1f894129c517dc8845baaeebec8a"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
     "name": "BBC News",
     "logoLocal": "ch_bbc_news",
     "category": "News",
@@ -586,6 +599,14 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
+  },
+
+  {
+    "name": "Discovery Science",
+    "logoLocal": "ch_discovery_science",
+    "category": "Documentary",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9822"
   },
 
   {
@@ -774,6 +795,14 @@
     }
   },
 
+  {
+    "name": "Nicktoons",
+    "logoLocal": "ch_nicktoons",
+    "category": "Kids",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://212.102.60.231/NICKTOONS/index.m3u8"
+  },
+
     {
     "name": "Cartoonito",
     "logoLocal": "ch_cartoonito",
@@ -789,6 +818,14 @@
     "drm": {
       "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
     }
+  },
+
+  {
+    "name": "Disney Channel US",
+    "logoLocal": "ch_disney_channel",
+    "category": "Kids",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://89.105.221.127/Disney/index.m3u8?token=test"
   },
 
   {
@@ -958,6 +995,14 @@
     "drm": {
       "f3047fc13d454dacb6db4207ee79d3d3": "bdbd38748f51fc26932e96c9a2020839"
     }
+  },
+
+   {
+    "name": "Travel Channel US",
+    "logoLocal": "ch_travel_channel",
+    "category": "Lifestyle",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162595"
   },
 
   {
@@ -1147,6 +1192,14 @@
     "category": "Entertainment",
     "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
   },
+
+  {
+    "name": "Aliw Channel 23",
+    "logoLocal": "ch_aliw_channel_23",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
   
   {
     "name": "NET25",
@@ -1260,6 +1313,17 @@
   },
 
   {
+    "name": "AMC",
+    "logo": "ch_amc",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd",
+    "drm": {
+      "3290efe4c5cf67165e846a0742c22cd9": "ddb94463c46af6037432fc026339c09d"
+    }
+  },
+
+  {
     "name": "Stories by AMC",
     "logoLocal": "ch_amc_presents",
     "category": "Movies",
@@ -1369,6 +1433,17 @@
   },
 
   {
+    "name": "Rock Entertainment",
+    "logoLocal": "ch_rock_entertainment",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd",
+    "drm": {
+      "a8b2d6f14c9e4d7a8f552c1e9b7d6a30": "b61a33a4281e7c8e68b24b9af466f7b4"
+    }
+  },
+
+  {
     "name": "ONE",
     "logoLocal": "ch_one",
     "category": "International",
@@ -1462,11 +1537,201 @@
     }
   },
 
+  {
+    "name": "FX Movie Channel",
+    "logoLocal": "ch_fx_movie_channel",
+    "category": "Movies",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/10260.m3u8"
+  },
+
+   {
+    "name": "SYFY",
+    "logoLocal": "ch_syfy",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://23.237.104.106:8080/USA_SYFY/index.m3u8"
+  },
+
+  {
+    "name": "Paramount Network",
+    "logoLocal": "ch_paramount_network",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8"
+  },
+
+  {
+    "name": "Hallmark",
+    "logoLocal": "ch_hallmark",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8"
+  },
+
+  {
+    "name": "E!",
+    "logoLocal": "ch_e",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://23.237.104.106:8080/USA_E/index.m3u8"
+  },
+
+  {
+    "name": "Outdoor",
+    "logoLocal": "ch_outdoor",
+    "category": "Lifestyle",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
+  },
+
+  {
+    "name": "ION",
+    "logoLocal": "ch_ion",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8"
+  },
+
+  {
+    "name": "Tastemade",
+    "logoLocal": "ch_tastemade",
+    "category": "Lifestyle",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-tablo/playlist.m3u8"
+  },
+
+  {
+    "name": "Smithsonian Channel",
+    "logoLocal": "ch_smithsonian_channel",
+    "category": "Documentary",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/31150.m3u8"
+  },
+
+  {
+    "name": "Fox",
+    "logoLocal": "ch_fox",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/120750.m3u8"
+  },
+
+  {
+    "name": "Fox News",
+    "logoLocal": "ch_fox_news",
+    "category": "News",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://starshare.st/live/P4B9TB9xR8/humongous2tonight/51.ts"
+  },
+
+  {
+    "name": "ABC",
+    "logoLocal": "ch_abc",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/121139.m3u8"
+  },
+
+  {
+    "name": "CBS",
+    "logoLocal": "ch_cbs",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/120749.m3u8"
+  },
+
+  {
+    "name": "K-Pop by CJ ENM",
+    "logoLocal": "ch_k_pop_by_cj_enm",
+    "category": "Music",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://jmp2.uk/stvp-US39000038W"
+  },
+
+ {
+    "name": "Mnet",
+    "logoLocal": "ch_mnet",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mnet.x10.mx/mnet.m3u8"
+  },
+
+  {
+    "name": "SBS",
+    "logoLocal": "ch_sbs",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch60"
+  },
+
+  {
+    "name": "MBC",
+    "logoLocal": "ch_mbc",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://setting.qkim.net/alive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&apikey=TQDUYRMX4P&u=Y"
+  },
+
+  {
+    "name": "KBS2",
+    "logoLocal": "ch_kbs2",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=K02&q=HD&apikey=TQDUYRMX4P&u=Y"
+  },
+
+  {
+    "name": "NHK World Premium",
+    "logoLocal": "ch_nhk_world_premium",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd",
+    "drm": {
+      "98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "TBS",
+    "logoLocal": "ch_tbs",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04"
+  },
+
+  {
+    "name": "CBS Sports Network",
+    "logoLocal": "ch_cbs_sports_network",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162524"
+  },
+
+  {
+    "name": "Fox Sports",
+    "logoLocal": "ch_fox_sports",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8"
+  },
+
    {
     "name": "ESPN",
     "logoLocal": "ch_espn",
     "category": "Sports",
     "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23120"
+  },
+
+  {
+    "name": "ESPN2",
+    "logoLocal": "ch_espn2",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://restream-live.realiptv.to/2879115/5077048/2581"
   },
 
    {
@@ -1624,6 +1889,14 @@
   },
 
   {
+    "name": "Tennis Channel",
+    "logoLocal": "ch_tennis_channel",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8"
+  },
+
+  {
     "name": "Tennis Channel 2",
     "logoLocal": "ch_tennis_channel_2",
     "category": "Sports",
@@ -1645,6 +1918,62 @@
     "logoLocal": "ch_pickle_tv",
     "category": "Sports",
     "streamUrl": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8"
+  },
+
+  {
+    "name": "World Poker Tour",
+    "logoLocal": "ch_world_poker_tour",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://tinyurl.com/world-poker-tour"
+  },
+
+  {
+    "name": "Motorvision TV",
+    "logoLocal": "ch_motorvision_tv",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-603fb593a99efc002dbf90e4/?X-Plex-Token=zigvMHRjmSaqGbePnLXZ"
+  },
+
+  {
+    "name": "Billiard TV",
+    "logoLocal": "ch_billiard_tv",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c/?X-Plex-Token=Q3sPFj4NDcyas6Z1hC9q"
+  },
+
+  {
+    "name": "Poker Night in America",
+    "logoLocal": "ch_poker_night_in_america",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f/?X-Plex-Token=uRdx9rhmefAHAawHGvKb"
+  },
+
+  {
+    "name": "Racing America",
+    "logoLocal": "ch_racing_america",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-61a945156547ba4d6d238dc9/?X-Plex-Token=uRdx9rhmefAHAawHGvKb"
+  },
+
+  {
+    "name": "Redbull TV",
+    "logoLocal": "ch_redbull_tv",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8"
+  },
+
+  {
+    "name": "X Games TV",
+    "logoLocal": "ch_x_games_tv",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8"
   },
 
   {
