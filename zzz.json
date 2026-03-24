@@ -91,6 +91,39 @@
   },
 
   {
+    "name": "MN+",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_mnplus.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-24T21:01:00",
+    "streamUrl": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
+    "drm": {
+      "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+    }
+  },
+
+  {
+    "name": "MNX HD",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_mnx_hd.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-24T21:02:00",
+    "streamUrl": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
+    "drm": {
+      "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+    }
+  },
+
+  {
+    "name": "Romedy Now",
+    "logo": "https://raw.githubusercontent.com/noodtayo/app/main/images/ch_romedy_now.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-24T21:03:00",
+    "streamUrl": "https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd",
+    "drm": {
+      "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+    }
+  },
+
+  {
     "name": "Cinemax",
     "logoLocal": "ch_cinemax",
     "category": "Movies",
