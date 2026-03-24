@@ -1315,7 +1315,7 @@
 
   {
     "name": "AMC",
-    "logo": "ch_amc",
+    "logoLocal": "ch_amc",
     "category": "Entertainment",
     "dateAdded": "2026-03-23",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd",
@@ -1884,7 +1884,7 @@
 
   {
     "name": "Tennis Channel",
-    "logoLocal": "ch_tennis_channel",
+    "logoLocal": "ch_tennnis_channel",
     "category": "Sports",
     "dateAdded": "2026-03-23",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8"
