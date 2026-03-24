@@ -440,6 +440,7 @@
     "name": "BBC Lifestyle",
     "logoLocal": "ch_bbc_lifestyle",
     "category": "Lifestyle",
+    "dateAdded": "2026-03-23",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd",
     "drm": {
       "f429292dc744f284355308561577ac10": "b12e1f894129c517dc8845baaeebec8a"
