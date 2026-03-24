@@ -357,16 +357,6 @@
   },
 
   {
-    "name": "One Sports",
-    "logoLocal": "ch_one_sports",
-    "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd",
-    "drm": {
-      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
-    }
-  },
-
-  {
     "name": "A2Z",
     "logoLocal": "ch_a2z",
     "category": "Entertainment",
@@ -844,36 +834,6 @@
     "logoLocal": "ch_disney_xd",
     "category": "Kids",
     "streamUrl": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
-  },
- 
-  {
-    "name": "One News",
-    "logoLocal": "ch_one_news",
-    "category": "News",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd",
-    "drm": {
-      "2e6a9d7c1f4b4c8a8d33c7b1f0a5e924": "4c71e178d090332fbfe72e023b59f6d2"
-    }
-  },
-
-  {
-    "name": "One PH",
-    "logoLocal": "ch_one_ph",
-    "category": "News",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd",
-    "drm": {
-      "b1c7e9d24f8a4d6c9e337a2f1c5b8d60": "8ff2e524cc1e028f2a4d4925e860c796"
-    }
-  },
-
-  {
-    "name": "One Sports+",
-    "logoLocal": "ch_one_sports_plus",
-    "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
-    "drm": {
-      "f00bd0122a8a4da1a49ea6c49f7098ad": "a4079f3667ba4c2bcfdeb13e45a6e9c6"
-    }
   },
 
   {
