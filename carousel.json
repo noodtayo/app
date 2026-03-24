@@ -1,7 +1,7 @@
 [
-  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner3.webp", "channelName": "ALLTV2"},
-  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner1.webp","channelName": "One Sports"},
-  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner4.webp", "channelName": "Movies Now"},
-  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner2.webp", "channelName": "Wil TV"},
-  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner5.webp", "channelName": "NBA TV Philippines"}
+  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner_born_to_shine.webp", "channelName": "GMA 7"},
+  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner_alibi.webp","channelName": "ALLTV2"},
+  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner_aniplus.webp", "channelName": "AniPlus"},
+  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner_pvl.webp", "channelName": "One Sports"},
+  { "image": "https://raw.githubusercontent.com/noodtayo/app/main/images/banner_nba_tv_philippines.webp", "channelName": "NBA TV Philippines"}
 ]
