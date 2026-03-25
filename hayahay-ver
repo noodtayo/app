@@ -1,0 +1,7 @@
+{
+  "version_code": 1,
+  "version_name": "1.0",
+  "apk_url": "https://download.noodtayo.tv/NoodTayoAppv9.apk",
+  "release_notes": "Added lock/unlock function when in Fullscreen mode. No more accidental touches.\n\nFix subtitle styling when in Fill mode.\n\nAdded Top 5 Channels row.",
+  "website_url": "https://noodtayo.tv/download"
+}
