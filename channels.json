@@ -1,13 +1,6 @@
 [
   
   {
-    "name": "Kapamilya Channel",
-    "logoLocal": "ch_kapamilya_channel",
-    "category": "Entertainment",
-    "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
     "name": "ALLTV2",
     "logoLocal": "ch_alltv2",
     "category": "Entertainment",
@@ -26,6 +19,69 @@
     "logoLocal": "ch_tv5",
     "category": "Entertainment",
     "streamUrl": "http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Movies Now",
+    "logoLocal": "ch_movies_now",
+    "category": "Movies",
+    "streamUrl": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
+    "drm": {
+      "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+    }
+  },
+
+  {
+    "name": "MN+",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mnplus.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-24T21:01:00",
+    "streamUrl": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
+    "drm": {
+      "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+    }
+  },
+
+  {
+    "name": "MNX HD",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mnx_hd.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-24T21:02:00",
+    "streamUrl": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
+    "drm": {
+      "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+    }
+  },
+
+  {
+    "name": "Cinema One Global",
+    "logoLocal": "ch_cinema_one",
+    "category": "Movies",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
+    "drm": {
+      "58d0e56991194043b8fb82feb4db7276": "c116c612201e178193693eced13d7319"
+    }
+  },
+
+  {
+    "name": "Trace Urban",
+    "logoLocal": "ch_trace_urban",
+    "category": "Music",
+    "streamUrl": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "name": "New K-Pop",
+    "logoLocal": "ch_new_k_pop",
+    "category": "Music",
+    "streamUrl": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+  },
+
+  {
+    "name": "AniPlus",
+    "logoLocal": "ch_aniplus",
+    "category": "Anime",
+    "streamUrl": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8"
   }
 
 ]
